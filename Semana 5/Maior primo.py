@@ -9,3 +9,5 @@ def maior_primo(n):
         if eh_primo:
             return num
     return None
+
+# escreva maior_primo(número_limite_desejado ex 100) no console
